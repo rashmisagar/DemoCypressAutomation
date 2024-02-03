@@ -1,0 +1,11 @@
+{
+  "loginCredentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "shippingInfo": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "zipCode": "12345"
+  }
+}
