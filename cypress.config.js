@@ -8,6 +8,6 @@ module.exports = defineConfig({
   fixturesFolder: "cypress/fixtures",
 
   e2e: {
-    specPattern: 'cypress/integration/*.js'
+    specPattern: 'cypress/e2e/**/*.js'
   },
 });
